@@ -40,14 +40,11 @@ The frontend of the application is a React app created with Vite and styled usin
 - Vite >= 4.x.x
 - Tailwind CSS >= 3.x.x
 
-### Steps to Run
-
-1. Clone this repository: `git clone <repository-url>`
 2. Navigate to the frontend directory: `cd frontend`
 3. Install the dependencies: `npm install`
-4. Start the development server: `npm run dev`
-
-Ensure the backend is running and the API is accessible for communication with the frontend.
+4. Set up environment variables by creating a `.env` file in the root of the frontend directory with the following content:
+   ```env
+   VITE_BACKEND_URL=http://localhost:3000
 
 ## Project Structure
 
