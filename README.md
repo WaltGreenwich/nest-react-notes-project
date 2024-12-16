@@ -21,7 +21,7 @@ The backend of the application is responsible for handling the API requests and 
 
 ### Steps to Run
 
-1. Clone this repository: `git clone [repository-url](https://github.com/WaltGreenwich/nest-react-notes-project.git)`
+1. Clone this repository: `git clone https://github.com/WaltGreenwich/nest-react-notes-project.git`
 2. Navigate to the backend directory: `cd backend`
 3. Install the dependencies: `npm install`
 4. Run database migrations: `npx prisma migrate dev`
