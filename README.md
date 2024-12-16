@@ -49,6 +49,8 @@ The frontend of the application is a React app created with Vite and styled usin
    ```env
    VITE_BACKEND_URL=http://localhost:3000
 
+5. Start the development server: `npm run dev`
+
 ## Project Structure
 
 - **Backend**: Contains the NestJS API with Prisma database management.
