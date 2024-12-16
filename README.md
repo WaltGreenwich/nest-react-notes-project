@@ -43,6 +43,7 @@ The frontend of the application is a React app created with Vite and styled usin
 2. Navigate to the frontend directory: `cd frontend`
 3. Install the dependencies: `npm install`
 4. Set up environment variables by creating a `.env` file in the root of the frontend directory with the following content:
+   
    ```env
    VITE_BACKEND_URL=http://localhost:3000
 
